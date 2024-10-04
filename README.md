@@ -9,8 +9,14 @@ Before you add the script you need some actors in the editor to represent the pl
      - EmptyActor "PlayerHead"
      - Camera "Camera"
 It should look like the following image:
+![image](https://github.com/user-attachments/assets/685fb5ae-6f1b-4e3b-a8fb-4d542e87b6ee)
 
-    ![image](https://github.com/user-attachments/assets/685fb5ae-6f1b-4e3b-a8fb-4d542e87b6ee)
+This is how the capsule collider is set up:
+![image](https://github.com/user-attachments/assets/2ee081f8-9ce0-4ffe-b42e-30b70b7743d1)
+
+This is how the PlayerHead is set up:
+![image](https://github.com/user-attachments/assets/96b1d225-9c81-4aeb-aff0-9cbad25748f3)
+
 
 ## Rigibody settings
 Set the mass of the player rigidbody to ~100 (Can be changed if needed)
