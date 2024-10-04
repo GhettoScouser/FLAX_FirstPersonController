@@ -164,3 +164,9 @@ You can experiment with these values to get the feel you want, I will provide a 
 - Speed cap "300"
 - Jump Force "300"
 - Layer Mask "Defualt" (Or any layer you want the player to be able to walk on)
+
+## Player physics material
+If you find that the player bounces too much when landing or doesnt come to a stop fast enough then you can add a physics materail to the Player CapsuleCollider.
+Shown below is the physics material I settle on:
+![image](https://github.com/user-attachments/assets/9c61d51c-aec7-47c2-bdfc-d77e5eff4f4d)
+
